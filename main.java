@@ -1,5 +1,5 @@
 fun main(args:Array<String>){
-  var a = 200
-  var b = 150
+  var a = "123"
+  var b = 'a'
   
 }
