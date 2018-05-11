@@ -1,4 +1,5 @@
 fun main(args:Array<String>){
-  var a = 1010
-  var b = 2000
+  var a = 100
+  var b = 50
+  
 }
